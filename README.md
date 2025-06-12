@@ -1,1 +1,7 @@
-# cs25shuowang
+GitHub Pages Exercise
+===========
+
+Involves
+* git
+* GitHub
+* SSH
